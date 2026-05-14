@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StudentWallah.aternos.me:20551",
+    "ip": "kaluga.aternos.host:20551",
     "port": 20551,
     "version": "",
     "try-creative": false
